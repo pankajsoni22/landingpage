@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7; /* Set the background color */
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-directionbody {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .message {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+
+  .button:hover {
+    background-color: #0056b3;
+  }
+  :column ;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Set the container height to the full viewport height */
+}
+
+.message {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: #007bff; /* Set the button background color */
+  color: #fff;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}

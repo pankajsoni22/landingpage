@@ -1,0 +1,13 @@
+{
+  "title": "Welcome To PMaxIQ Services",
+  "subTitle": "Moving PMaxIQ dashboard to new location",
+  "message": "We are moving dashboard to new location pmaxiq.cec.lab.emc.com, Click below button and do not forget to BOOKMARK NEW LOCATION",
+  "button": {
+    "show": true,
+    "message": "GO TO PMAXIQ DASHBOARD",
+    "redirectUrl": "http://pmaxiq.cec.lab.emc.com"
+  },
+  "background": {
+    "url": "/maintenance.jpg"
+  }
+}
